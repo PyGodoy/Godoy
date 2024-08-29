@@ -14,8 +14,8 @@ Sou um **desenvolvedor de software** com experiência em diversas tecnologias e 
 
 ### 💼 Experiência e Áreas de Interesse
 
-- **Experiência em:** Desenvolvimento Web, Aplicativos Móveis, Backend e Frontend
-- **Tecnologias de Interesse:** Inteligência Artificial, Blockchain, Desenvolvimento em Nuvem
+- **Experiência em:** Desenvolvimento Mobile, Desenvolvimento Web
+- **Tecnologias de Interesse:** Flutter, Dart, Desenvolvimento em Nuvem
 - **Objetivos:** Continuar aprendendo e contribuindo para projetos inovadores e de impacto
 
 ---
@@ -23,15 +23,15 @@ Sou um **desenvolvedor de software** com experiência em diversas tecnologias e 
 ## 🌟 Projetos Destacados
 
 ### [Despesas Pessoais App](https://github.com/PyGodoy/DespesasPessoaisApp)
-![Despesas Pessoais App](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Despesas Pessoais App](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 Um aplicativo para gerenciar despesas pessoais com uma interface intuitiva e funcionalidades robustas para controle financeiro.
-- **Tecnologias:** React, Node.js, MongoDB
+- **Tecnologias:** Dart, Flutter
 - **Descrição:** Permite o rastreamento eficiente de despesas e receitas, com gráficos e relatórios detalhados.
 
 ### [GvSwim](https://github.com/PyGodoy/gvswim)
-![GvSwim](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GvSwim](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 Uma ferramenta para gerenciamento e análise de treinos de natação, ajudando nadadores e treinadores a otimizar o desempenho.
-- **Tecnologias:** Python, Flask, SQLAlchemy
+- **Tecnologias:** Dart, Flutter
 - **Descrição:** Oferece acompanhamento detalhado de treinos e performances com relatórios e estatísticas.
 
 ---
