@@ -10,7 +10,6 @@ Sou um **desenvolvedor de software** com experiência em diversas tecnologias e 
 
 - **Localização:** Palmas, Tocantins
 - **Contato:** godoyvitorio99@gmail.com | [LinkedIn](https://br.linkedin.com/in/mikaell-de-godoy-vitorio-ab64422b2)
-- **Portfólio:** [Seu Portfólio Online] (se aplicável)
 
 ### 💼 Experiência e Áreas de Interesse
 
@@ -60,23 +59,6 @@ Aqui estão algumas estatísticas e gráficos sobre meu perfil e contribuições
 
 ### Troféus
 ![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=PyGodoy&theme=algolia&no-frame=true&no-bg=true)
-
----
-
-## 📝 Blog e Artigos
-
-Recentemente, escrevi sobre desenvolvimento e tecnologia. Confira alguns dos meus artigos:
-
-- [Título do Artigo 1](Link para o artigo 1)
-- [Título do Artigo 2](Link para o artigo 2)
-
----
-
-## 🔗 Links Úteis
-
-- [Meu Website](Link para seu website pessoal) (se aplicável)
-- [LinkedIn](https://www.linkedin.com/in/seuperfil)
-- [Twitter](https://twitter.com/seuperfil)
 
 ---
 
