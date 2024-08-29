@@ -52,28 +52,8 @@ Aqui estão algumas estatísticas e gráficos sobre meu perfil e contribuições
 ### Linguagens Mais Usadas
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PyGodoy&layout=compact&theme=dark&hide_border=true)
 
-### Gráfico de Contribuições
-![Gráfico de Contribuições](https://github-readme-activity-graph.cyclic.app/graph?username=PyGodoy&theme=dracula&hide_border=true&area=true)
-
 ### Troféus
 ![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=PyGodoy&theme=algolia&no-frame=true&no-bg=true)
-
----
-
-## 📝 Blog e Artigos
-
-Recentemente, escrevi sobre desenvolvimento e tecnologia. Confira alguns dos meus artigos:
-
-- [Título do Artigo 1](Link para o artigo 1)
-- [Título do Artigo 2](Link para o artigo 2)
-
----
-
-## 🔗 Links Úteis
-
-- [Meu Website](Link para seu website pessoal) (se aplicável)
-- [LinkedIn](https://www.linkedin.com/in/seuperfil)
-- [Twitter](https://twitter.com/seuperfil)
 
 ---
 
