@@ -53,22 +53,6 @@ Aqui estão algumas estatísticas e gráficos sobre meu perfil e contribuições
 
 ---
 
-## 📝 Blog e Artigos
-
-Recentemente, escrevi sobre desenvolvimento e tecnologia. Confira alguns dos meus artigos:
-
-- [Título do Artigo 1](Link para o artigo 1)
-- [Título do Artigo 2](Link para o artigo 2)
-
----
-
-## 🔗 Links Úteis
-
-- [Meu Website](Link para seu website pessoal) (se aplicável)
-- [LinkedIn](https://www.linkedin.com/in/seuperfil)
-- [Twitter](https://twitter.com/seuperfil)
-
----
 
 ## 💬 Entre em Contato
 
