@@ -39,6 +39,11 @@ Se você está interessado em colaborar em algum dos meus projetos, sinta-se à 
 ## 📈 Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PyGodoy&show_icons=true&hide_title=false&hide=prs&count_private=true&theme=dark)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PyGodoy&layout=compact&theme=dark)
+![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=PyGodoy&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+![Gráfico de Contribuições](https://activity-graph.herokuapp.com/graph?username=PyGodoy&theme=react-dark)
+![Estatísticas de Linguagens do Repositório](https://github-readme-stats.vercel.app/api/pin/?username=PyGodoy&repo=DespesasPessoaisApp&theme=dark)
+![Estatísticas de Linguagens do Repositório](https://github-readme-stats.vercel.app/api/pin/?username=PyGodoy&repo=gvswim&theme=dark)
 
 ## 📝 Blog e Artigos
 
