@@ -55,10 +55,6 @@ Aqui estão algumas estatísticas e gráficos sobre meu perfil e contribuições
 
 ![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=PyGodoy&theme=algolia&no-frame=true&no-bg=true)
 
-### Gráfico de Contribuições
-
-![Gráfico de Contribuições](https://github-readme-activity-graph.cyclic.app/graph?username=PyGodoy&theme=dracula&hide_border=true&area=true)
-
 ---
 
 ## 💬 Entre em Contato
