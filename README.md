@@ -28,11 +28,17 @@ Um aplicativo para gerenciar despesas pessoais com uma interface intuitiva e fun
 - **Tecnologias:** Dart, Flutter
 - **Descrição:** Permite o rastreamento eficiente de despesas e receitas, com gráficos e relatórios detalhados.
 
+**Estatísticas:**
+![Estrelas](https://img.shields.io/github/stars/PyGodoy/DespesasPessoaisApp?style=for-the-badge&logo=github&label=Estrelas) ![Forks](https://img.shields.io/github/forks/PyGodoy/DespesasPessoaisApp?style=for-the-badge&logo=github&label=Forks) ![Issues](https://img.shields.io/github/issues/PyGodoy/DespesasPessoaisApp?style=for-the-badge&logo=github&label=Issues)
+
 ### [GvSwim](https://github.com/PyGodoy/gvswim)
 ![GvSwim](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 Uma ferramenta para gerenciamento e análise de treinos de natação, ajudando nadadores e treinadores a otimizar o desempenho.
 - **Tecnologias:** Dart, Flutter
 - **Descrição:** Oferece acompanhamento detalhado de treinos e performances com relatórios e estatísticas.
+
+**Estatísticas:**
+![Estrelas](https://img.shields.io/github/stars/PyGodoy/gvswim?style=for-the-badge&logo=github&label=Estrelas) ![Forks](https://img.shields.io/github/forks/PyGodoy/gvswim?style=for-the-badge&logo=github&label=Forks) ![Issues](https://img.shields.io/github/issues/PyGodoy/gvswim?style=for-the-badge&logo=github&label=Issues)
 
 ---
 
