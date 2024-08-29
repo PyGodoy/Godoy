@@ -45,17 +45,19 @@ Uma ferramenta para gerenciamento e análise de treinos de natação, ajudando n
 
 Aqui estão algumas estatísticas e gráficos sobre meu perfil e contribuições:
 
-### Estatísticas Gerais
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PyGodoy&show_icons=true&count_private=true&theme=radical&hide_border=true)
+### Estatísticas Gerais, Streak Stats e Linguagens Mais Usadas
 
-### Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PyGodoy&theme=dark&hide_border=true)
-
-### Linguagens Mais Usadas
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PyGodoy&layout=compact&theme=radical&hide_border=true)
+| Estatísticas Gerais | Streak Stats | Linguagens Mais Usadas |
+|:--------------------:|:-------------:|:-----------------------:|
+| ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PyGodoy&show_icons=true&count_private=true&theme=radical&hide_border=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PyGodoy&theme=dark&hide_border=true) | ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PyGodoy&layout=compact&theme=radical&hide_border=true) |
 
 ### Troféus
+
 ![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=PyGodoy&theme=algolia&no-frame=true&no-bg=true)
+
+### Gráfico de Contribuições
+
+![Gráfico de Contribuições](https://github-readme-activity-graph.cyclic.app/graph?username=PyGodoy&theme=dracula&hide_border=true&area=true)
 
 ---
 
